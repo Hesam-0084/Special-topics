@@ -2,7 +2,7 @@
 
 ## 👤 Student Information
 
-- **Name:** Hesam
+- **Name:** Hesam Firoozi
 - **GitHub:** [github.com/Hesam-0084](https://github.com/Hesam-0084)
 
 ## 📚 Course
